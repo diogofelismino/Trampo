@@ -1,0 +1,22 @@
+Problema: 
+	- Muitos atendimentos
+ 	- deficuldade em divir o atendimento e responder todos eles
+
+Processo: 
+	- Identificaram o problemas
+	- Implementaram o ITIL usando o modulo Spekx for ITIL Governante
+	- dividiram o antendimento em ilha e niveis.
+	- as ilhas, usuarios internos, ponto de vendas, correspondente bancario 
+	- o atendimento é feito por 23 técnicos
+	- alertas de atendimentos.
+	- formulario web dinamico
+	- criaram script de atendimento
+	
+
+Resultado: 
+	- Houve uma melhora no atendimento
+	- Um aumento de registro de 44,93%
+	- Ficou possivel registrar todos os problemas por um unico serviço como o web
+	- aumento dos lucros
+	- 
+	

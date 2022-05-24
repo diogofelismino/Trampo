@@ -1,0 +1,27 @@
+1- Nota fiscal de serviço eletronico, obrigatoria.
+
+2- CNAE responsavel por classificar o ramo da atividade da empresa, Atividade do município É um identificador que complementa o CNAE, ex: lavar o carro, LC é o codiogo de serviço define o tipo de serviço de forma mais detalhada e precisa, ex: aspirar o carro. 
+
+3 - Sao divididos em portais e completos, os postais os comtribuintes tem que compra um licenca do serviço da nota control, já os completos não precisam comprar essa licença.
+
+*4- O contribuinte normal é aqule que cumpre a nota fisical, o simples nacional é um regime tributario simplificado, o mei é um modelo empresarial onde o trabalhador autonomo é uma pessoa juridica por meio da regulamentação do serviço.
+
+5 - Serve para emitir a nota fisical de serviço eletronica, nele você pode emitir ela , consultar quais foram emitidas, pedir cancelamento, verificar o estado de cancelamento delas, e possui a funcionalidade gestor que permite a empresa fazer uma analise mais detalhada das notas fisciais recebidas e emitidas por sua empresa.
+
+6- sim, para pessoa fisica ou juridica ou empresa que possuem cadastro no município, sendo que este município deve ser atendido pela nota control e se for atendido na naquele que o municipio e do tipo portal.
+
+*7- o cliente não pode mecher no manager, não se altera o cadastro geral.
+
+8- Competência é o periodo de apuração geralmenteo mês no final dela e gerado uma guia de rendimento na hora do fechamento mensal, tambem pode ser usado para notas retroativas.
+
+9- Painel e area geralemnte usada pelo cliente onde ele pode fazer a pesquisa de qual serviço ele gostaria de acessar e em qual municipio assim sendo redirecionado para tal, acesso aos manuais.
+
+10-  Depende do municipio aquele que bloqueio o cancelamento diretamente depois do prazo, e aquele que te possibilita pedir o cancelamento se estiver no prazo será cancelado na hora, se não tiver deve passar por fiscal que irar verificar a cituação.
+
+11 - Serve para mudar a descrição do serviço que esta sendo presto, apenas o contruibuinte pode acessar pois é ele que esta prestando o serviço, detro do paramentro do municipio.
+
+12- o fato de que a empresa nos municipios de portai terão que compra um licença da nota control para poder usar seus serviços porem teram acesso a funcionalidade de gestor, já os completos as empresas não precisaram comprar alicença porem não teram acesso a funcionalidade do gestor.
+
+13- Prestado é o contribuinte ele é o que irar prestar o serviço, já tomador é aqule que ira contratar e pgar pelo serviço do prestador.
+
+14- É uma funionalida disponivel para os municípios tipo portais onde eles podem analizarde forma precisa as nota fisicas emitidas e recebidas por sua empresa assim tendo uma forma de gerenciamento mais precisa.

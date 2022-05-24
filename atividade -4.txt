@@ -1,0 +1,19 @@
+1 - sistema de gestão tributaria, ele que alimenta os outros sistemas.
+
+2 - Cadastro preliminar é mais simple e nele há apenas tomadores, ja no cadastro geral ele é mais completo, nele há tomadore e prestadores e não é possivel alterar seus dados inserido nesse cadastro.
+
+3 - Ele pode alterar os dados do feito no cadastro preliminar dos tomadores e dependendo dos paramentro do municipio ele pode altera a senha tanto no cadastro preliminar para os tomadores quando no geral para os prestadores.
+
+4 - deve se verificar se ele possui um cadastro ativo e se os paramentro do municipio permite, e se o cpf da pessoa esta vinculado a empresa.
+
+5 - Não se pode alterar se ela tiver cadastro geral, ela precisa entra em contato com a prefeitura.
+
+6  - No cadastro geral.
+
+7? - sim, pois eles estao cadastrada porem nem todas estão com permissao ativa.
+
+8 - o online a pessoa pode gerar a nota fiscal , a guia, o livro fiscal, ja no manager ela pode alterar dados e cadastradas nova pessoa que seram vinculadas a empresa || o online é um usuario web, maneger usuario sis
+
+9 - no manage no cadastro geral, no final da pagina
+
+10 - tem que entra no portal adm, consultar contrato, ir em detalhe de contratos, reponsavel do contrato e procura a aba de troca a senha e trocar ela.

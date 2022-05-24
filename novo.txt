@@ -1,0 +1,15 @@
+1 - Temos os menus de navegação no lado esquerdo no meio os aviso, em cima dados da empresa, login da pessoa, data e horario.
+
+2- Temos a possibilidade de emitir o nota fisical onde irar passar o dados corretamente para que não haver erros posteriormente, podemos consultar as notas fiscais passando o intevalo entre elas ou o intervalo de datas com ou sem o cpf ou cnpj do tomador alterar senha, cancelar a nota.
+
+3 - é a tela de consulta de de nota fiscal
+
+4 - o olhinho server para visualizar a nota fiscal, o x para cancelar a nota fiscal, o amarelo mensagem do fiscal, branco para exporta em xml, o azul para imprimir e salvar em pdf, verde enviar por email- , o lapiz azul para altera a descrição do serviço a ser prestado.
+
+5- não a municipio que privam algum deles isso depdende do paramentro do muncipio.
+
+6- Atraves da aba de verificamento de solicitação de cancelamento(solicitação de cancelamento) la ele pode vare de foi deferida ou não.
+
+7- uma funcionalidade do portal 
+
+8- depende se ele tem a licença e se estar cadastro no muncipio com cadastro ativo.

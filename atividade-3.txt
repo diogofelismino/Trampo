@@ -1,0 +1,15 @@
+1 - todos que tem cadastro no municipio ativo
+
+2- ela pode  declarar os serviço contratados, incluir eles consultar ou retificar eles, emitir o livro fiscal, fazer o fechamento da competencia
+
+3- Nao, pois os portais precisam do emissor nfs-e
+
+4 - deve acessar o iss.net online ir em gui de recolimento clicar em emissão de guia selecionar o tipo de serviço se ele é prestado ou contratado, colocar a data do serviço data de pagamento e clicar no botao verde assim você redirecionadado para remição de guia e la você pode visualizar a sua guia 
+
+5 -Lista de todas as empresa vinculadas ao cpf
+
+6 - Domicilo tributario eletronico, serve para faciliar a comunicação entre a empresa e a prefeitura.
+
+7 - S quando o prestador não emiti o nfs-e, ex M4 e M6.
+
+8 - É onde a empresa faz o levantamento das notas que ela emitiu e recebeu, ele esta no iss.net online dentro do menuo livro fiscal.
