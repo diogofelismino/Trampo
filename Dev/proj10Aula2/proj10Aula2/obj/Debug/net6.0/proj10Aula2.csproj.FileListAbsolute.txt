@@ -1,0 +1,15 @@
+C:\Dev\proj10Aula2\proj10Aula2\bin\Debug\net6.0\proj10Aula2.exe
+C:\Dev\proj10Aula2\proj10Aula2\bin\Debug\net6.0\proj10Aula2.deps.json
+C:\Dev\proj10Aula2\proj10Aula2\bin\Debug\net6.0\proj10Aula2.runtimeconfig.json
+C:\Dev\proj10Aula2\proj10Aula2\bin\Debug\net6.0\proj10Aula2.dll
+C:\Dev\proj10Aula2\proj10Aula2\bin\Debug\net6.0\proj10Aula2.pdb
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.csproj.AssemblyReference.cache
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.AssemblyInfoInputs.cache
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.AssemblyInfo.cs
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.csproj.CoreCompileInputs.cache
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.dll
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\refint\proj10Aula2.dll
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.pdb
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\proj10Aula2.genruntimeconfig.cache
+C:\Dev\proj10Aula2\proj10Aula2\obj\Debug\net6.0\ref\proj10Aula2.dll

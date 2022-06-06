@@ -1,0 +1,16 @@
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\bin\Debug\net5.0\projeoto7Aula4Teste.exe
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\bin\Debug\net5.0\projeoto7Aula4Teste.deps.json
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\bin\Debug\net5.0\projeoto7Aula4Teste.runtimeconfig.json
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\bin\Debug\net5.0\projeoto7Aula4Teste.runtimeconfig.dev.json
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\bin\Debug\net5.0\projeoto7Aula4Teste.dll
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\bin\Debug\net5.0\projeoto7Aula4Teste.pdb
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.csproj.AssemblyReference.cache
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.AssemblyInfoInputs.cache
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.AssemblyInfo.cs
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.csproj.CoreCompileInputs.cache
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.dll
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\refint\projeoto7Aula4Teste.dll
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.pdb
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\projeoto7Aula4Teste.genruntimeconfig.cache
+C:\Dev\projeoto7Aula4Teste\projeoto7Aula4Teste\obj\Debug\net5.0\ref\projeoto7Aula4Teste.dll

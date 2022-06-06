@@ -1,0 +1,16 @@
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.csproj.AssemblyReference.cache
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.AssemblyInfoInputs.cache
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.AssemblyInfo.cs
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.csproj.CoreCompileInputs.cache
+C:\Dev\proj3Aula4\proj3Aula4\bin\Debug\net5.0\proj3Aula4.exe
+C:\Dev\proj3Aula4\proj3Aula4\bin\Debug\net5.0\proj3Aula4.deps.json
+C:\Dev\proj3Aula4\proj3Aula4\bin\Debug\net5.0\proj3Aula4.runtimeconfig.json
+C:\Dev\proj3Aula4\proj3Aula4\bin\Debug\net5.0\proj3Aula4.runtimeconfig.dev.json
+C:\Dev\proj3Aula4\proj3Aula4\bin\Debug\net5.0\proj3Aula4.dll
+C:\Dev\proj3Aula4\proj3Aula4\bin\Debug\net5.0\proj3Aula4.pdb
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.dll
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\refint\proj3Aula4.dll
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.pdb
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\proj3Aula4.genruntimeconfig.cache
+C:\Dev\proj3Aula4\proj3Aula4\obj\Debug\net5.0\ref\proj3Aula4.dll

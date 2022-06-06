@@ -1,0 +1,40 @@
+.container{
+
+    
+
+    width: 1000px;
+    height: 500px;
+    padding: 10px;
+    
+    background-color: aqua;
+    margin: auto;
+
+}
+
+.container1{
+
+
+    background-color: red;
+    border: 5px groove blue;
+    border-radius: 200%;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0 0 10px 30px rgb(90, 90, 90);
+    
+
+}
+
+.container2{
+
+
+    background-color: rgb(195, 0, 255);
+    
+    width: 500px;
+    height: 500px;
+    
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    
+
+}

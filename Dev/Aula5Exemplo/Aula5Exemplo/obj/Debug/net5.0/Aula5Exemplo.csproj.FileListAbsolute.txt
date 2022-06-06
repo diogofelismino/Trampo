@@ -1,0 +1,16 @@
+C:\Dev\Aula5Exemplo\Aula5Exemplo\bin\Debug\net5.0\Aula5Exemplo.exe
+C:\Dev\Aula5Exemplo\Aula5Exemplo\bin\Debug\net5.0\Aula5Exemplo.deps.json
+C:\Dev\Aula5Exemplo\Aula5Exemplo\bin\Debug\net5.0\Aula5Exemplo.runtimeconfig.json
+C:\Dev\Aula5Exemplo\Aula5Exemplo\bin\Debug\net5.0\Aula5Exemplo.runtimeconfig.dev.json
+C:\Dev\Aula5Exemplo\Aula5Exemplo\bin\Debug\net5.0\Aula5Exemplo.dll
+C:\Dev\Aula5Exemplo\Aula5Exemplo\bin\Debug\net5.0\Aula5Exemplo.pdb
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.csproj.AssemblyReference.cache
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.AssemblyInfoInputs.cache
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.AssemblyInfo.cs
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.csproj.CoreCompileInputs.cache
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.dll
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\refint\Aula5Exemplo.dll
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.pdb
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\Aula5Exemplo.genruntimeconfig.cache
+C:\Dev\Aula5Exemplo\Aula5Exemplo\obj\Debug\net5.0\ref\Aula5Exemplo.dll

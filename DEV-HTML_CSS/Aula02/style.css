@@ -1,0 +1,10 @@
+
+.titulo{
+
+    
+    display: grid;
+}
+
+.grr{
+    grid-template-columns: auto;
+}

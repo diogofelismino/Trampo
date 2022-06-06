@@ -1,0 +1,16 @@
+C:\Dev\proj10Aula4\proj10Aula4\bin\Debug\net5.0\proj10Aula4.exe
+C:\Dev\proj10Aula4\proj10Aula4\bin\Debug\net5.0\proj10Aula4.deps.json
+C:\Dev\proj10Aula4\proj10Aula4\bin\Debug\net5.0\proj10Aula4.runtimeconfig.json
+C:\Dev\proj10Aula4\proj10Aula4\bin\Debug\net5.0\proj10Aula4.runtimeconfig.dev.json
+C:\Dev\proj10Aula4\proj10Aula4\bin\Debug\net5.0\proj10Aula4.dll
+C:\Dev\proj10Aula4\proj10Aula4\bin\Debug\net5.0\proj10Aula4.pdb
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.csproj.AssemblyReference.cache
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.AssemblyInfoInputs.cache
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.AssemblyInfo.cs
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.csproj.CoreCompileInputs.cache
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.dll
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\refint\proj10Aula4.dll
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.pdb
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\proj10Aula4.genruntimeconfig.cache
+C:\Dev\proj10Aula4\proj10Aula4\obj\Debug\net5.0\ref\proj10Aula4.dll

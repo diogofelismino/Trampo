@@ -1,0 +1,16 @@
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.csproj.AssemblyReference.cache
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.AssemblyInfoInputs.cache
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.AssemblyInfo.cs
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.csproj.CoreCompileInputs.cache
+C:\Dev\testeaula7\testeaula7\bin\Debug\net5.0\testeaula7.exe
+C:\Dev\testeaula7\testeaula7\bin\Debug\net5.0\testeaula7.deps.json
+C:\Dev\testeaula7\testeaula7\bin\Debug\net5.0\testeaula7.runtimeconfig.json
+C:\Dev\testeaula7\testeaula7\bin\Debug\net5.0\testeaula7.runtimeconfig.dev.json
+C:\Dev\testeaula7\testeaula7\bin\Debug\net5.0\testeaula7.dll
+C:\Dev\testeaula7\testeaula7\bin\Debug\net5.0\testeaula7.pdb
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.dll
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\refint\testeaula7.dll
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.pdb
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\testeaula7.genruntimeconfig.cache
+C:\Dev\testeaula7\testeaula7\obj\Debug\net5.0\ref\testeaula7.dll

@@ -1,0 +1,16 @@
+C:\Dev\proj12Aula3\proj12Aula3\bin\Debug\net5.0\proj12Aula3.exe
+C:\Dev\proj12Aula3\proj12Aula3\bin\Debug\net5.0\proj12Aula3.deps.json
+C:\Dev\proj12Aula3\proj12Aula3\bin\Debug\net5.0\proj12Aula3.runtimeconfig.json
+C:\Dev\proj12Aula3\proj12Aula3\bin\Debug\net5.0\proj12Aula3.runtimeconfig.dev.json
+C:\Dev\proj12Aula3\proj12Aula3\bin\Debug\net5.0\proj12Aula3.dll
+C:\Dev\proj12Aula3\proj12Aula3\bin\Debug\net5.0\proj12Aula3.pdb
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.csproj.AssemblyReference.cache
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.AssemblyInfoInputs.cache
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.AssemblyInfo.cs
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.csproj.CoreCompileInputs.cache
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.dll
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\refint\proj12Aula3.dll
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.pdb
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\proj12Aula3.genruntimeconfig.cache
+C:\Dev\proj12Aula3\proj12Aula3\obj\Debug\net5.0\ref\proj12Aula3.dll

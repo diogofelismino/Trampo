@@ -1,0 +1,15 @@
+C:\Dev\proj2Aula2\proj2Aula2\bin\Debug\net6.0\proj2Aula2.exe
+C:\Dev\proj2Aula2\proj2Aula2\bin\Debug\net6.0\proj2Aula2.deps.json
+C:\Dev\proj2Aula2\proj2Aula2\bin\Debug\net6.0\proj2Aula2.runtimeconfig.json
+C:\Dev\proj2Aula2\proj2Aula2\bin\Debug\net6.0\proj2Aula2.dll
+C:\Dev\proj2Aula2\proj2Aula2\bin\Debug\net6.0\proj2Aula2.pdb
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.csproj.AssemblyReference.cache
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.AssemblyInfoInputs.cache
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.AssemblyInfo.cs
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.csproj.CoreCompileInputs.cache
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.dll
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\refint\proj2Aula2.dll
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.pdb
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\proj2Aula2.genruntimeconfig.cache
+C:\Dev\proj2Aula2\proj2Aula2\obj\Debug\net6.0\ref\proj2Aula2.dll
